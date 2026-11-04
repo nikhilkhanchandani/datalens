@@ -481,8 +481,8 @@ correlations → clean data → compare before/after → export cleaned CSV.
 
 ## Current Limitations (end of Phase 7)
 
-The project is feature-complete. These are the remaining limitations. The README and
-`docs/INTERVIEW_GUIDE.md` cover them in more detail.
+The project is feature-complete. These are the remaining limitations. The README
+covers them in more detail.
 
 - No undo or rollback. Each working version is a full copy, so disk use grows with
   each cleaning step. Previous versions are deleted on commit (see Phase 6 Decisions).
@@ -582,8 +582,7 @@ Scope: before/after comparison, transformation history, and cleaned CSV export. 
 
 - Read this file, then `README.md`. Run `pytest` in `backend/` (251 tests at the end of
   Phase 7), `npx tsc --noEmit`, `npm run lint`, and `npm run build` in `frontend/`.
-- Phase 7 additions: `docs/INTERVIEW_GUIDE.md`, `docs/RESUME_NOTES.md`,
-  `sample_data/`, and an expanded README. The production-only settings are
+- Phase 7 additions: `sample_data/` and an expanded README. The production-only settings are
   `DATALENS_ENVIRONMENT=production` (disables `/docs`) and `NEXT_PUBLIC_API_BASE_URL`
   (baked in at build time).
 - Deployment: not deployed anywhere. No Docker, by decision: the app runs as two local

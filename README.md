@@ -109,8 +109,7 @@ data-lens/
 │   ├── src/lib/             # typed API client and display formatting
 │   └── .env.example
 ├── sample_data/             # deterministic demo CSVs and their generator script
-├── PROJECT_SPEC.md          # engineering specification and phase record
-└── docs/                    # interview guide and resume notes
+└── PROJECT_SPEC.md          # engineering specification and phase record
 ```
 
 ## Getting Started
