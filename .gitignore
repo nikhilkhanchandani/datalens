@@ -1,0 +1,30 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/*.db
+backend/data/
+
+# Environment files
+.env
+.env.local
+backend/.env
+frontend/.env.local
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local-only files (not published)
+frontend/CLAUDE.md
+frontend/AGENTS.md
+docs/INTERVIEW_GUIDE.md
+docs/RESUME_NOTES.md

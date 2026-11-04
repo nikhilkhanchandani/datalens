@@ -1,0 +1,9 @@
+﻿employee_id,full_name,dept_nm,city,salary,price_text,notes,internal_code
+1,  Alice Smith ,Engineering,NYC,91000,12.50,   ,IC-7
+2,Bob Jones,Sales,,78000,8,ok,IC-7
+3,Cara Lee,Engineering,LA,,15.25,,IC-7
+4,Dan Wu,Marketing,  SF,65000,9.75,follow up,IC-7
+4,Dan Wu,Marketing,  SF,65000,9.75,follow up,IC-7
+5,Eve Stone,Sales,NYC,,22,   ,IC-7
+6,Finn Park,Engineering,,88000,14,,IC-7
+7,Gia Rossi,Marketing,LA,71000,6.5,ok,IC-7

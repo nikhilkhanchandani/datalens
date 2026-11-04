@@ -1,0 +1,403 @@
+employee_id,department,age,salary,hire_date,location,active
+EMP-1001,Sales,27,92000.0,2020-12-27,Remote,Yes
+EMP-1002,Marketing,26,82000.0,2016-07-27,Austin,Yes
+EMP-1003,Engineering,57,104000.0,2014-07-16,New York,Yes
+EMP-1004,Marketing,36,81000.0,2021-01-03,New York,Yes
+EMP-1005,Marketing,27,72000.0,2024-02-05,Remote,Yes
+EMP-1006,Sales,62,80000.0,2012-07-30,New York,Yes
+EMP-1007,Engineering,33,117000.0,2019-11-04,New York,Yes
+EMP-1008,Operations,48,62000.0,2015-03-24,Chicago,Yes
+EMP-1009,Marketing,33,78000.0,2021-10-02,Chicago,Yes
+EMP-1010,Marketing,46,85000.0,2013-10-23,New York,No
+EMP-1011,Engineering,51,116000.0,2016-10-04,Remote,Yes
+EMP-1012,Engineering,53,125000.0,2014-09-04,New York,Yes
+EMP-1013,Sales,39,108000.0,2023-05-06,Seattle,Yes
+EMP-1014,Operations,47,68000.0,2013-01-26,Remote,Yes
+EMP-1015,Engineering,57,98000.0,2019-07-24,Seattle,Yes
+EMP-1016,Sales,57,84000.0,2013-07-25,New York,Yes
+EMP-1017,Operations,53,66000.0,2019-10-17,Seattle,Yes
+EMP-1018,Sales,38,85000.0,2021-12-22,Chicago,Y
+EMP-1019,Sales,44,96000.0,2021-10-09,Austin,Yes
+EMP-1020,Finance,62,65000.0,2012-06-07,Chicago,Yes
+EMP-1021,Sales,32,96000.0,2022-01-18,Seattle,Yes
+EMP-1022,Operations,51,80000.0,2015-11-09,Austin,Yes
+EMP-1023,Engineering,55,114000.0,2020-11-09,New York,Yes
+EMP-1024,HR,42,73000.0,2024-07-09,Austin,Yes
+EMP-1025,Engineering,58,102000.0,2013-07-18, Seattle,Yes
+EMP-1026,HR,39,67000.0,2016-09-17,Remote,Yes
+EMP-1027,Operations,57,68000.0,2023-04-05,Remote,Yes
+EMP-1028,Operations,49,68000.0,2013-11-02,New York,Yes
+EMP-1029,Operations,24,69000.0,2015-05-22,Remote,Yes
+EMP-1030,Finance,56,90000.0,2019-02-18,Austin,Yes
+EMP-1031,Engineering,51,119000.0,2024-12-09,Seattle,Yes
+EMP-1032,Engineering,31,117000.0,2015-10-30,Chicago,Yes
+EMP-1033,Sales,51,68000.0,2017-01-03,Seattle,Yes
+EMP-1034,Sales,43,88000.0,2022-05-03,Chicago,Yes
+EMP-1035,Sales,61,101000.0,2013-07-23,Austin,Yes
+EMP-1036,HR,34,,2016-04-03,Chicago,Yes
+EMP-1037,Finance,33,101000.0,2016-02-08,Chicago,Yes
+EMP-1038,Operations,24,55000.0,2017-03-18,Austin,Yes
+EMP-1039,Sales,55,78000.0,2019-06-14,Remote,Yes
+EMP-1040,HR,63,61000.0,2014-11-17,Seattle,Yes
+EMP-1041,HR,50,81000.0,2017-01-31,Seattle,Yes
+EMP-1042,Operations,37,78000.0,2023-11-29,Chicago,No
+EMP-1043,hr,58,66000.0,2022-10-07,Austin,Yes
+EMP-1044,Engineering,32,124000.0,2024-06-03,Austin,No
+EMP-1045,Engineering,51,132000.0,2020-11-11,Seattle,Yes
+EMP-1046,Operations,47,62000.0,2019-07-25,New York,No
+EMP-1047,Finance,57,84000.0,2014-10-09,New York,Yes
+EMP-1048,HR,62,74000.0,2014-01-23,Austin,Yes
+EMP-1049,HR,37,60000.0,2018-12-31,Remote,Yes
+EMP-1050,Finance,26,83000.0,2017-04-05,Seattle,Yes
+EMP-1051,HR,28,90000.0,2022-03-25,Remote,Yes
+EMP-1052,Operations,53,58000.0,2012-02-15,Chicago,Yes
+EMP-1053,Operations,37,70000.0,2023-07-30,Chicago,Yes
+EMP-1054,Sales,27,84000.0,2014-03-20, Seattle,Yes
+EMP-1055,Engineering,56,103000.0,2017-02-17,New York,Yes
+EMP-1056,Engineering,49,108000.0,2016-08-17,Remote,Yes
+EMP-1057,Sales,27,100000.0,2024-01-04, Seattle,Yes
+EMP-1058,Operations,51,67000.0,2021-05-11,Austin,Yes
+EMP-1059,Operations,48,68000.0,2012-06-19,New York,Yes
+EMP-1060,Sales,63,98000.0,2023-01-30,Chicago,Yes
+EMP-1061,Sales,63,75000.0,2020-10-15,Remote,Yes
+EMP-1062,Marketing,62,64000.0,2012-11-19,New York,Yes
+EMP-1063,Operations,59,,2022-02-27,New York,Yes
+EMP-1064,Finance,55,84000.0,2012-06-09,Chicago,Yes
+EMP-1065,Engineering,50,119000.0,2017-07-10,Chicago,Yes
+EMP-1066,Sales,44,70000.0,2014-02-08,Seattle,Yes
+EMP-1067,Marketing,55,78000.0,2012-02-22,New York,No
+EMP-1068,Marketing,62,63000.0,2019-04-08,Seattle,Y
+EMP-1069,Operations,26,63000.0,2020-12-03,Seattle,Yes
+EMP-1070,Operations,27,57000.0,2018-03-26,Chicago,Yes
+EMP-1071,Engineering,42,93000.0,2016-06-13,Austin,Yes
+EMP-1072,Engineering,34,,2018-09-02,Seattle,Yes
+EMP-1073,Sales,44,57000.0,2013-12-21,Remote,Yes
+EMP-1074,Engineering,35,89000.0,2012-08-25,Seattle,Yes
+EMP-1075,Sales,54,87000.0,2014-01-15,Remote,Yes
+EMP-1076,Engineering,59,110000.0,2012-09-14,New York,Yes
+EMP-1077,Engineering,33,90000.0,2021-12-28, Seattle,No
+EMP-1078,Operations,54,,2019-11-28,Seattle,No
+EMP-1079,Engineering,26,93000.0,2014-06-08,Chicago,Yes
+EMP-1080,Operations,55,69000.0,2019-05-28,Chicago,Yes
+EMP-1081,Sales,51,77000.0,2018-04-16,New York,Yes
+EMP-1082,Sales,51,75000.0,2013-06-12,Remote,No
+EMP-1083,Engineering,42,104000.0,2024-08-09,Remote,Yes
+EMP-1084,Engineering,26,150000.0,2024-03-08,New York,Yes
+EMP-1085,Sales,57,70000.0,2021-11-09,Chicago,Yes
+EMP-1086,Operations,26,,2022-07-04,Austin,Yes
+EMP-1087,Operations,42,69000.0,2019-02-09,Remote,Yes
+EMP-1088,Engineering,29,92000.0,2022-06-11,Remote,Yes
+EMP-1089,Engineering,57,84000.0,2018-11-11,Remote,Yes
+EMP-1090,engineering,46,97000.0,2014-02-27,Remote,Yes
+EMP-1091,HR,43,75000.0,2014-03-04,Seattle,Yes
+EMP-1092,Engineering,35,100000.0,2023-02-04,Chicago,Y
+EMP-1093,Engineering,54,102000.0,2017-10-19,Seattle,Yes
+EMP-1094,Operations,30,70000.0,2021-06-23,Austin,Yes
+EMP-1095,Operations,52,55000.0,2013-11-18,Remote,Yes
+EMP-1096,Finance,62,81000.0,2017-10-25,Austin,Yes
+EMP-1097,Engineering,33,85000.0,2013-01-31,Seattle,Yes
+EMP-1098,Sales,50,82000.0,2014-11-13,New York,Yes
+EMP-1099,engineering,34,108000.0,2013-06-01,Seattle,Yes
+EMP-1100,Finance,61,92000.0,2014-09-14,Austin,Yes
+EMP-1101,HR,59,57000.0,2019-11-18,Austin,Yes
+EMP-1102,Engineering,35,102000.0,2012-01-26,Seattle,Yes
+EMP-1103,Operations,31,52000.0,2014-07-07,Austin,No
+EMP-1104,Sales,25,75000.0,2020-12-22,New York,Yes
+EMP-1105,HR,51,,2013-12-09,Chicago,Yes
+EMP-1106,Engineering,60,100000.0,2019-03-21,Remote,Yes
+EMP-1107,Sales,28,64000.0,2023-04-07,Remote,No
+EMP-1108,Engineering,56,95000.0,2022-02-18,Seattle,Yes
+EMP-1109,Finance,53,65000.0,2013-08-01,Seattle,Yes
+EMP-1110,Engineering,41,88000.0,2013-12-01,Chicago,Yes
+EMP-1111,Sales,31,86000.0,2021-03-02,Seattle,Yes
+EMP-1112,HR,49,55000.0,2016-07-02,Austin,Yes
+EMP-1113,HR,46,70000.0,2017-06-01,New York,Yes
+EMP-1114,Finance,56,82000.0,2018-03-12,Remote,Yes
+EMP-1115,Finance,45,,2019-07-10,Remote,Yes
+EMP-1116,Finance,24,85000.0,2017-11-01,New York,Yes
+EMP-1117,Finance,30,72000.0,2012-04-20,Austin,Yes
+EMP-1118,Sales,37,88000.0,2013-03-24,Seattle,Yes
+EMP-1119,Engineering,42,95000.0,2012-01-01,Seattle,Yes
+EMP-1120,Sales,36,74000.0,2015-06-10,New York,Yes
+EMP-1121,Engineering,58,98000.0,2022-08-13,New York,Yes
+EMP-1122,Sales,33,86000.0,2024-08-16,Remote,Yes
+EMP-1123,Sales,50,84000.0,2018-03-05,Remote,Yes
+EMP-1124,Engineering,37,73000.0,2012-05-09,Seattle,Yes
+EMP-1125,HR,63,69000.0,2012-12-04,Seattle,Yes
+EMP-1126,Finance,60,64000.0,2022-08-03,Seattle,Yes
+EMP-1127,Marketing,54,71000.0,2016-06-17,Austin,Yes
+EMP-1128,Operations,54,61000.0,2023-06-15,Seattle,Yes
+EMP-1129,Engineering,49,100000.0,2018-07-30,Chicago,Yes
+EMP-1130,Engineering,46,113000.0,2023-06-03,New York,Yes
+EMP-1131,Engineering,45,116000.0,2013-10-04,Chicago,Yes
+EMP-1132,Marketing,23,66000.0,2023-02-24,Chicago,Yes
+EMP-1133,Engineering,61,94000.0,2019-02-05,Chicago,Yes
+EMP-1134,Operations,63,62000.0,2017-09-06,Austin,Yes
+EMP-1135,Sales,44,63000.0,2018-11-13,New York,Yes
+EMP-1136,Sales,58,73000.0,2016-04-01,Austin,Yes
+EMP-1137,Marketing,38,89000.0,2019-10-31,Austin,Yes
+EMP-1138,sales,26,63000.0,2022-01-01,New York,Yes
+EMP-1139,finance,57,78000.0,2022-07-11,Austin,Yes
+EMP-1140,Finance,43,75000.0,2024-09-15,Seattle,Yes
+EMP-1141,HR,61,89000.0,2017-05-12,Austin,Yes
+EMP-1142,Marketing,30,69000.0,2021-12-27,New York,No
+EMP-1143,Sales,42,73000.0,,Seattle,Yes
+EMP-1144,Sales,50,68000.0,2012-03-25,Austin,Yes
+EMP-1145,Finance,27,82000.0,2018-03-02,Austin,Yes
+EMP-1146,Sales,63,81000.0,2021-02-07,New York,Yes
+EMP-1147,Sales,47,69000.0,2017-12-09,New York,Yes
+EMP-1148,Engineering,29,121000.0,2013-04-19,New York,Yes
+EMP-1149,Finance,53,85000.0,2020-07-08,Remote,Yes
+EMP-1150,Engineering,58,118000.0,2017-04-11,Chicago,Yes
+EMP-1151,Operations,37,59000.0,2020-01-09,Austin,Yes
+EMP-1152,Engineering,47,109000.0,2012-01-07,Seattle,Yes
+EMP-1153,Sales,53,76000.0,2012-02-24,Seattle,Yes
+EMP-1154,Engineering,28,129000.0,2019-10-31,New York,Yes
+EMP-1155,Engineering,44,107000.0,2024-10-05,Remote,Yes
+EMP-1156,Sales,45,78000.0,2020-04-22,Chicago,Yes
+EMP-1157,Finance,34,77000.0,2024-03-31,Seattle,Yes
+EMP-1158,Engineering,34,98000.0,2023-01-03,Remote,Yes
+EMP-1159,Engineering,48,109000.0,2015-08-27,Austin,Yes
+EMP-1160,Engineering,53,118000.0,2013-04-30,New York,Yes
+EMP-1161,Sales,38,71000.0,2019-04-04,Austin,Yes
+EMP-1162,Operations,28,63000.0,2020-01-22,Chicago,Yes
+EMP-1163,Sales,55,80000.0,2022-01-03,Remote,Yes
+EMP-1164,HR,29,70000.0,2018-10-08,Seattle,Yes
+EMP-1165,Sales,22,61000.0,2023-12-16,Remote,Yes
+EMP-1166,Sales,35,69000.0,2022-12-18,Remote,Yes
+EMP-1167,Operations,56,51000.0,2019-08-12,New York,Yes
+EMP-1168,Engineering,53,105000.0,2019-03-01, New York,Yes
+EMP-1169,operations,34,55000.0,2012-03-30,Seattle,Yes
+EMP-1170,Sales,43,73000.0,2022-02-22,Seattle,Yes
+EMP-1171,Sales,62,66000.0,2020-11-03,Remote,Yes
+EMP-1172,Operations,52,59000.0,2023-08-23,Seattle,Yes
+EMP-1173,Sales,53,67000.0,2013-03-17,Remote,Yes
+EMP-1174,Operations,25,69000.0,2013-11-24,Chicago,Yes
+EMP-1175,Operations,32,66000.0,,New York,Yes
+EMP-1176,Engineering,26,107000.0,2018-05-10,New York,Yes
+EMP-1177,Sales,63,75000.0,2019-08-19,Austin,Yes
+EMP-1178,HR,36,50000.0,2017-08-24,New York,Yes
+EMP-1179,Engineering,42,98000.0,2020-04-27,Austin,Yes
+EMP-1180,Finance,45,74000.0,2020-07-21,Austin,Yes
+EMP-1181,Engineering,43,109000.0,2014-06-17,Chicago,Yes
+EMP-1182,Engineering,24,115000.0,2021-11-17,Austin,Yes
+EMP-1183,Marketing,60,77000.0,2018-05-31,Seattle,Yes
+EMP-1184,HR,37,80000.0,2019-06-24,New York,Yes
+EMP-1185,finance,60,76000.0,2020-01-11,Austin,Yes
+EMP-1186,Marketing,54,68000.0,,Remote,Yes
+EMP-1187,Engineering,51,,2015-11-25,Chicago,Yes
+EMP-1188,Sales,51,80000.0,2012-02-02,Seattle,Yes
+EMP-1189,Engineering,63,101000.0,2014-05-11,Chicago,Yes
+EMP-1190,Engineering,34,136000.0,2024-07-18,Chicago,Yes
+EMP-1191,Sales,35,85000.0,2014-11-22,Remote,Yes
+EMP-1192,Marketing,50,72000.0,2015-03-29,Chicago,Yes
+EMP-1193,Engineering,31,95000.0,2023-02-23,Remote,Yes
+EMP-1194,Engineering,55,126000.0,2015-01-23,Seattle,No
+EMP-1195,Finance,23,84000.0,2018-01-13,Remote,Yes
+EMP-1196,Engineering,59,105000.0,2016-10-24,Remote,Yes
+EMP-1197,Operations,36,68000.0,,Remote,Yes
+EMP-1198,Sales,22,88000.0,2019-09-22,Austin,Yes
+EMP-1199,Engineering,47,113000.0,2018-09-09,Remote,Yes
+EMP-1200,Operations,33,70000.0,2018-07-07,New York,Yes
+EMP-1201,Marketing,34,79000.0,2022-11-01,Austin,Y
+EMP-1202,HR,42,72000.0,2019-07-22,Chicago,Yes
+EMP-1203,Sales,46,,2018-08-09,New York,Yes
+EMP-1204,Sales,27,101000.0,2023-07-12,Remote,Yes
+EMP-1205,Finance,24,69000.0,2013-03-18,Remote,Yes
+EMP-1206,Sales,41,81000.0,2022-10-29,Seattle,Yes
+EMP-1207,Marketing,36,61000.0,2014-07-28,Seattle,Yes
+EMP-1208,Engineering,46,104000.0,2016-04-22,Seattle,Yes
+EMP-1209,Sales,53,72000.0,2012-03-03,Chicago,No
+EMP-1210,Engineering,47,107000.0,2019-06-04,Seattle,Yes
+EMP-1211,HR,26,70000.0,2022-10-20,Remote,Yes
+EMP-1212,sales,63,68000.0,2016-12-16,Chicago,Yes
+EMP-1213,Operations,52,62000.0,2020-08-13,Chicago,No
+EMP-1214,Engineering,24,128000.0,2017-02-07,New York,Yes
+EMP-1215,Sales,54,,2021-11-11,Remote,Yes
+EMP-1216,Sales,58,69000.0,2024-12-21,Austin,Yes
+EMP-1217,finance,45,93000.0,2021-04-15,Austin,Yes
+EMP-1218,HR,56,68000.0,2016-06-03,Chicago,Y
+EMP-1219,Sales,59,80000.0,2022-09-17,New York,Yes
+EMP-1220,Sales,62,90000.0,2012-06-29,Remote,Yes
+EMP-1221,HR,62,60000.0,2024-10-27,Remote,Yes
+EMP-1222,Engineering,30,98000.0,2022-11-27,Chicago,Yes
+EMP-1223,Marketing,23,68000.0,2020-06-27,Seattle,Yes
+EMP-1224,Finance,49,78000.0,2020-01-24,Austin,Yes
+EMP-1225,Engineering,50,127000.0,2015-04-12,Seattle,Yes
+EMP-1226,Finance,45,65000.0,2017-08-08,New York,Yes
+EMP-1227,Finance,31,69000.0,2013-04-26,Seattle,Yes
+EMP-1228,Engineering,61,87000.0,2016-05-26,New York,Yes
+EMP-1229,Sales,39,95000.0,2019-08-30,Chicago,Yes
+EMP-1230,Sales,53,72000.0,2016-09-14,Chicago,Yes
+EMP-1231,HR,48,64000.0,2022-01-05,Chicago,Yes
+EMP-1232,Marketing,59,,2023-01-31,Remote,Yes
+EMP-1233,Sales,51,75000.0,2019-04-18,New York,Yes
+EMP-1234,Sales,48,88000.0,2016-06-05,Remote,Yes
+EMP-1235,Engineering,57,109000.0,2015-12-11,New York,Yes
+EMP-1236,Engineering,24,103000.0,2019-02-06,Remote,Yes
+EMP-1237,Engineering,51,84000.0,2021-05-08,Chicago,Yes
+EMP-1238,Engineering,46,100000.0,2013-08-24,Remote,Yes
+EMP-1239,Engineering,54,107000.0,2017-10-26,Austin,Yes
+EMP-1240,Marketing,31,64000.0,2017-09-21,Austin,Yes
+EMP-1241,Marketing,47,81000.0,2015-09-21,New York,Yes
+EMP-1242,Engineering,33,119000.0,2015-02-02,Austin,Yes
+EMP-1243,Marketing,26,69000.0,2022-12-04,Austin,Yes
+EMP-1244,Engineering,46,116000.0,2017-08-14,Remote,Yes
+EMP-1245,Sales,22,77000.0,2019-06-28,Chicago,Yes
+EMP-1246,Operations,25,73000.0,2012-06-30,New York,Yes
+EMP-1247,Marketing,44,98000.0,2015-09-06,Chicago,Yes
+EMP-1248,Engineering,59,90000.0,2014-11-27,Chicago,Yes
+EMP-1249,Sales,52,87000.0,2016-04-08,Remote,Yes
+EMP-1250,Finance,22,98000.0,2022-12-07,New York,Yes
+EMP-1251,Engineering,26,,2019-06-05,Remote,Yes
+EMP-1252,Operations,40,57000.0,2023-09-21,New York,Y
+EMP-1253,Sales,40,72000.0,2017-06-29,Remote,Yes
+EMP-1254,Engineering,23,103000.0,2022-01-01,Austin,Yes
+EMP-1255,Marketing,32,70000.0,2014-01-31,New York,Yes
+EMP-1256,Finance,27,80000.0,2022-08-04,Seattle,Yes
+EMP-1257,Sales,45,88000.0,2019-12-06,Seattle,Yes
+EMP-1258,Operations,49,48000.0,2012-07-03,Remote,Yes
+EMP-1259,Operations,38,54000.0,2020-12-13,New York,Yes
+EMP-1260,Engineering,46,115000.0,2018-03-24,Seattle,Yes
+EMP-1261,Engineering,30,113000.0,2012-01-01,Austin,Yes
+EMP-1262,Sales,57,67000.0,2023-01-01,Austin,Yes
+EMP-1263,Marketing,22,80000.0,2018-12-22,Remote,Yes
+EMP-1264,Marketing,43,,2019-11-18,Austin,Yes
+EMP-1265,Engineering,35,,2019-07-01,Chicago,Yes
+EMP-1266,Operations,40,54000.0,2013-03-05,Austin,Yes
+EMP-1267,Sales,43,88000.0,2016-04-24,Remote,Yes
+EMP-1268,HR,49,85000.0,2021-02-11,Remote,No
+EMP-1269,Operations,61,55000.0,2016-05-26,Seattle,Yes
+EMP-1270,Engineering,45,106000.0,2023-07-17,New York,Yes
+EMP-1271,Engineering,31,122000.0,2016-02-16,Chicago,Yes
+EMP-1272,Engineering,44,107000.0,2017-12-20,New York,Yes
+EMP-1273,Operations,43,49000.0,2017-10-14,New York,Yes
+EMP-1274,Sales,58,83000.0,2012-03-30,Remote,Yes
+EMP-1275,Operations,45,54000.0,2022-07-19,Remote,Yes
+EMP-1276,Sales,58,65000.0,2013-10-05,New York,Yes
+EMP-1277,Sales,49,61000.0,2018-02-03,Austin,Yes
+EMP-1278,Operations,46,,2023-10-17,Chicago,Yes
+EMP-1279,Sales,35,69000.0,2024-11-27,New York,Yes
+EMP-1280,HR,32,70000.0,2014-12-28, Chicago,Yes
+EMP-1281,Sales,26,85000.0,2016-11-19,New York,Yes
+EMP-1282,Engineering,45,107000.0,2019-05-08,Seattle,Yes
+EMP-1283,Engineering,60,109000.0,2021-01-30,Remote,Yes
+EMP-1284,Engineering,22,111000.0,2015-04-01,Austin,Yes
+EMP-1285,Finance,62,84000.0,2019-02-17,Chicago,Yes
+EMP-1286,Sales,58,70000.0,2022-11-02,Austin,Yes
+EMP-1287,Sales,40,69000.0,2021-11-26,Remote,No
+EMP-1288,engineering,35,103000.0,2022-09-05,New York,Yes
+EMP-1289,Finance,46,81000.0,2023-07-17,Seattle,Yes
+EMP-1290,HR,57,71000.0,2023-03-11,New York,Yes
+EMP-1291,Finance,23,96000.0,2018-08-24,Chicago,Yes
+EMP-1292,Operations,40,65000.0,2024-08-27,Austin,Yes
+EMP-1293,Engineering,23,94000.0,2018-06-04,Chicago,Yes
+EMP-1294,Engineering,49,77000.0,2021-03-20,New York,Yes
+EMP-1295,Marketing,25,66000.0,2024-03-31,Seattle,No
+EMP-1296,Engineering,35,87000.0,2012-07-24,Seattle,Yes
+EMP-1297,Finance,53,74000.0,2024-02-17,Austin,Yes
+EMP-1298,HR,53,69000.0,2022-09-04,Austin,Yes
+EMP-1299,Engineering,31,106000.0,2024-12-13,New York,Yes
+EMP-1300,Operations,43,80000.0,2022-01-14,Seattle,Yes
+EMP-1301,Engineering,29,,2014-01-12,Chicago,Yes
+EMP-1302,Finance,46,107000.0,2015-12-03,Chicago,No
+EMP-1303,Sales,22,86000.0,2012-01-17,Remote,Y
+EMP-1304,Finance,56,95000.0,2019-11-24,Seattle,Yes
+EMP-1305,Engineering,22,100000.0,2017-09-06,Seattle,Yes
+EMP-1306,Operations,47,53000.0,2018-03-02,Chicago,Yes
+EMP-1307,Operations,39,58000.0,2021-07-11,Austin,No
+EMP-1308,Marketing,31,74000.0,2022-08-28,New York,Yes
+EMP-1309,Marketing,44,68000.0,2012-12-11,Chicago,Yes
+EMP-1310,Finance,27,71000.0,2023-11-29,Remote,Yes
+EMP-1311,Marketing,46,78000.0,2016-11-07,Austin,Yes
+EMP-1312,Marketing,49,64000.0,2021-10-08,Seattle,No
+EMP-1313,Marketing,41,60000.0,2019-07-22,Seattle,Yes
+EMP-1314,Operations,37,53000.0,2017-10-06,Remote,Yes
+EMP-1315,Marketing,41,72000.0,2014-10-05,New York,Yes
+EMP-1316,Engineering,62,91000.0,2014-06-18,Austin,Yes
+EMP-1317,Operations,53,60000.0,2021-07-01,Remote,No
+EMP-1318,Engineering,212,114000.0,2016-03-04,New York,No
+EMP-1319,Engineering,34,114000.0,2014-12-25,Remote,Yes
+EMP-1320,Operations,23,57000.0,2012-01-28,Austin,No
+EMP-1321,Engineering,31,87000.0,2022-12-02,Chicago,Yes
+EMP-1322,Engineering,7,97000.0,2017-02-20,Seattle,Y
+EMP-1323,Marketing,57,81000.0,2016-07-10,Remote,Yes
+EMP-1324,Operations,41,70000.0,2016-10-30,New York,Yes
+EMP-1325,Engineering,50,,2019-10-11,Seattle,Yes
+EMP-1326,Sales,37,92000.0,2018-04-05,Remote,Yes
+EMP-1327,Engineering,42,134000.0,2019-01-26,Seattle,Yes
+EMP-1328,Sales,56,73000.0,2015-08-11,Austin,Yes
+EMP-1329,Sales,33,96000.0,2015-11-07,New York,Yes
+EMP-1330,engineering,35,101000.0,2023-03-17,Austin,Yes
+EMP-1331,Operations,27,72000.0,2017-09-14,Remote,Yes
+EMP-1332,Finance,31,91000.0,2024-08-21,Seattle,Yes
+EMP-1333,Operations,23,47000.0,2022-12-28,Austin,Yes
+EMP-1334,Operations,56,54000.0,2021-03-31,Chicago,Yes
+EMP-1335,Operations,57,52000.0,2019-02-14,Remote,Yes
+EMP-1336,HR,39,52000.0,2022-11-17,Remote,Yes
+EMP-1337,Sales,46,88000.0,2012-09-20,Chicago,Yes
+EMP-1338,Operations,32,83000.0,2018-06-25,Remote,Yes
+EMP-1339,Marketing,23,71000.0,2021-04-06,Chicago,No
+EMP-1340,Engineering,43,118000.0,2013-05-28,Remote,Yes
+EMP-1341,Sales,28,96000.0,2014-05-15,Remote,Yes
+EMP-1342,Sales,57,80000.0,,Seattle,Yes
+EMP-1343,Sales,33,78000.0,2018-04-25,Austin,Yes
+EMP-1344,HR,52,65000.0,2019-01-13,Chicago,Yes
+EMP-1345,Sales,33,84000.0,2018-02-01,New York,Yes
+EMP-1346,Engineering,27,119000.0,2012-09-17,New York,Yes
+EMP-1347,Engineering,45,,2018-04-27,Remote,Yes
+EMP-1348,operations,29,66000.0,2023-07-15,Seattle,Yes
+EMP-1349,Sales,38,,2012-05-27,Chicago,Yes
+EMP-1350,Sales,34,62000.0,2022-01-30,Austin,Yes
+EMP-1351,HR,59,76000.0,2015-07-16,Remote,Yes
+EMP-1352,Operations,43,52000.0,2012-12-20,Seattle,No
+EMP-1353,Marketing,52,81000.0,2012-08-28,Remote,Yes
+EMP-1354,Finance,46,91000.0,2012-03-01,New York,Yes
+EMP-1355,Engineering,60,90000.0,2017-05-22,New York,Yes
+EMP-1356,Operations,40,57000.0,2018-06-20,Seattle,Yes
+EMP-1357,Marketing,58,100000.0,2020-01-27,Austin,Yes
+EMP-1358,Finance,59,81000.0,2013-01-20,Seattle,Yes
+EMP-1359,Engineering,60,89000.0,2020-06-30,Remote,Yes
+EMP-1360,Finance,51,92000.0,2021-08-11,New York,Yes
+EMP-1361,Sales,63,70000.0,2012-11-02,Remote,Yes
+EMP-1362,Sales,53,60000.0,2020-10-08,New York,Yes
+EMP-1363,Finance,35,88000.0,2013-07-18,Austin,Yes
+EMP-1364,HR,28,59000.0,2017-09-15,Remote,Yes
+EMP-1365,Sales,30,82000.0,2020-08-04,Seattle,Yes
+EMP-1366,Operations,46,55000.0,2023-04-25,Chicago,Yes
+EMP-1367,Engineering,28,116000.0,2018-11-25,Seattle,Yes
+EMP-1368,Marketing,31,76000.0,2017-08-28,Remote,Yes
+EMP-1369,Engineering,48,73000.0,2022-10-29,Chicago,Yes
+EMP-1370,Engineering,35,111000.0,2014-10-22,Remote,Yes
+EMP-1371,Operations,50,60000.0,2014-08-31,Seattle,Yes
+EMP-1372,Engineering,63,128000.0,2018-01-22,New York,Yes
+EMP-1373,Operations,25,66000.0,2013-07-25,Chicago,Yes
+EMP-1374,Sales,48,87000.0,2012-04-15,Remote,Yes
+EMP-1375,Finance,56,74000.0,2016-09-13,Chicago,Yes
+EMP-1376,Engineering,27,94000.0,2013-12-24,Remote,Yes
+EMP-1377,Finance,54,82000.0,2020-04-10,Austin,Yes
+EMP-1378,Operations,43,59000.0,2019-02-16,Chicago,No
+EMP-1379,Marketing,48,89000.0,2018-04-24,Remote,Yes
+EMP-1380,Sales,24,76000.0,2018-06-12,Seattle,Yes
+EMP-1381,HR,40,56000.0,2013-04-12,Chicago,No
+EMP-1382,Finance,37,73000.0,2017-03-24,Seattle,Yes
+EMP-1383,Engineering,28,120000.0,2012-12-04,Chicago,Yes
+EMP-1384,Finance,54,80000.0,2016-08-11,Remote,No
+EMP-1385,Finance,43,80000.0,2020-10-20,New York,Y
+EMP-1386,HR,58,78000.0,2024-10-24,Seattle,Yes
+EMP-1387,Sales,28,69000.0,2015-11-10,New York,Yes
+EMP-1388,Sales,52,57000.0,2015-06-07,Seattle,Yes
+EMP-1389,Operations,47,55000.0,2020-09-11,Remote,Yes
+EMP-1390,Marketing,49,77000.0,2023-12-04,Seattle,Yes
+EMP-1391,Marketing,35,71000.0,2015-10-31,Austin,Yes
+EMP-1392,Operations,51,50000.0,2022-11-20,Remote,Yes
+EMP-1393,Engineering,32,121000.0,2016-02-02,New York,Yes
+EMP-1394,Sales,54,80000.0,2020-04-21,Austin,Yes
+EMP-1395,HR,40,,2014-09-22,Remote,No
+EMP-1396,Finance,42,87000.0,,Chicago,Yes
+EMP-1397,Operations,46,52000.0,2024-10-11,New York,Yes
+EMP-1398,Finance,25,86000.0,2017-01-20,Austin,Yes
+EMP-1399,Sales,37,,2012-03-17,Austin,Yes
+EMP-1400,Sales,30,92000.0,2022-01-11,Remote,Yes
+EMP-1004,Marketing,36,81000.0,2021-01-03,New York,Yes
+EMP-1127,Marketing,54,71000.0,2016-06-17,Austin,Yes
